@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptooapp/static/css/main.0ccddb83.css",
+    "main.js": "/cryptooapp/static/js/main.b9e1a5e2.js",
+    "static/media/trade.png": "/cryptooapp/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/yebo.png": "/cryptooapp/static/media/yebo.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/cryptooapp/index.html",
+    "main.0ccddb83.css.map": "/cryptooapp/static/css/main.0ccddb83.css.map",
+    "main.b9e1a5e2.js.map": "/cryptooapp/static/js/main.b9e1a5e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ccddb83.css",
+    "static/js/main.b9e1a5e2.js"
+  ]
+}
